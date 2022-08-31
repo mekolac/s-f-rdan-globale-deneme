@@ -1,0 +1,41 @@
+<svg width="730" height="1558" viewBox="0 0 730 1558" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_0_3070)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 1212H26L22 1204H28V1192H16V1204L20 1212ZM4 1212H10L6 1204H12V1192H0V1204L4 1212Z" fill="#CDCCD9"/>
+<rect width="730" height="500" rx="10" fill="#696871"/>
+<g clip-path="url(#clip1_0_3070)">
+<rect y="1518" width="95" height="40" rx="5" fill="#EAE9F2"/>
+</g>
+<g clip-path="url(#clip2_0_3070)">
+<rect x="108" y="1518" width="79" height="40" rx="5" fill="#EAE9F2"/>
+</g>
+<g clip-path="url(#clip3_0_3070)">
+<rect x="200" y="1518" width="79" height="40" rx="5" fill="#EAE9F2"/>
+</g>
+<g clip-path="url(#clip4_0_3070)">
+<rect x="292" y="1518" width="63" height="40" rx="5" fill="#EAE9F2"/>
+</g>
+<g clip-path="url(#clip5_0_3070)">
+<rect x="368" y="1518" width="100" height="40" rx="5" fill="#EAE9F2"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_3070">
+<rect width="730" height="1558" fill="white"/>
+</clipPath>
+<clipPath id="clip1_0_3070">
+<rect width="95" height="40" fill="white" transform="translate(0 1518)"/>
+</clipPath>
+<clipPath id="clip2_0_3070">
+<rect width="79" height="40" fill="white" transform="translate(108 1518)"/>
+</clipPath>
+<clipPath id="clip3_0_3070">
+<rect width="79" height="40" fill="white" transform="translate(200 1518)"/>
+</clipPath>
+<clipPath id="clip4_0_3070">
+<rect width="63" height="40" fill="white" transform="translate(292 1518)"/>
+</clipPath>
+<clipPath id="clip5_0_3070">
+<rect width="100" height="40" fill="white" transform="translate(368 1518)"/>
+</clipPath>
+</defs>
+</svg>
